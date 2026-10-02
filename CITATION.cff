@@ -7,6 +7,7 @@ authors:
     orcid: "https://orcid.org/0009-0000-1012-7361"
     affiliation: "National Aerospace University \"Kharkiv Aviation Institute\""
 version: 1.0.0
+doi: 10.5281/zenodo.23093754
 date-released: 2026-10-02
 license: MIT
 repository-code: "https://github.com/kholdrex/irt-llm-budget-eval"

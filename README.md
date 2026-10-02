@@ -1,5 +1,7 @@
 # irt-llm-budget-eval
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23093754.svg)](https://doi.org/10.5281/zenodo.23093754)
+
 Code for the study *Comparing IRT models and simple baselines for budget-constrained LLM evaluation*.
 
 The study compares item response models with simple non-psychometric estimators on public model × item
@@ -93,6 +95,11 @@ src/irteval/
   cli.py        command-line interface
 tests/          gradient checks, parameter recovery, estimator unit tests
 ```
+
+## Citation
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23093754 (all versions). Citation metadata is in
+`CITATION.cff`.
 
 ## License
 
