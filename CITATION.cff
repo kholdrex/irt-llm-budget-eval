@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Comparing IRT models and simple baselines for budget-constrained LLM evaluation: code"
+authors:
+  - family-names: Kholodniak
+    given-names: Oleksandr
+    orcid: "https://orcid.org/0009-0000-1012-7361"
+    affiliation: "National Aerospace University \"Kharkiv Aviation Institute\""
+version: 1.0.0
+date-released: 2026-10-02
+license: MIT
+repository-code: "https://github.com/kholdrex/irt-llm-budget-eval"
+keywords:
+  - item response theory
+  - large language models
+  - benchmark evaluation
+  - matrix completion
